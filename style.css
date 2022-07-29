@@ -183,6 +183,9 @@ html,body{
 /* Code for mobile view */
 
 @media (max-width: 900px){
+  /* .nav{
+    display: block;
+  } */
   .nav-links{
  display: none;
   }
